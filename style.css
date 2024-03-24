@@ -2,6 +2,7 @@
 body {
     font-family: roboto;
     text-align: center;
+    diplay: grid;
   }
 /* Styling use on image tag */
   img{
